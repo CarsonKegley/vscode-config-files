@@ -1,3 +1,5 @@
+#!/bin/sh
+
 code --install-extension abusaidm.html-snippets
 code --install-extension apvarun.celestial
 code --install-extension dbaeumer.vscode-eslint
