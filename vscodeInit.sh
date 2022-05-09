@@ -1,19 +1,26 @@
 #!/bin/sh
-
 code --install-extension abusaidm.html-snippets
+code --install-extension ahmadalli.vscode-nginx-conf
 code --install-extension apvarun.celestial
+code --install-extension cweijan.vscode-office
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension dhedgecock.radical-vscode
 code --install-extension eamodio.gitlens
 code --install-extension ecmel.vscode-html-css
 code --install-extension enkia.tokyo-night
 code --install-extension esbenp.prettier-vscode
-code --install-extension eyhn.vscode-vibrancy
 code --install-extension GabrielBB.vscode-lombok
+code --install-extension gitduck.code-streaming
+code --install-extension GitHub.copilot
+code --install-extension GrapeCity.gc-excelviewer
 code --install-extension mrpbennett.atlantic-night
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
 code --install-extension ms-toolsai.jupyter
+code --install-extension ms-toolsai.jupyter-keymap
+code --install-extension ms-toolsai.jupyter-renderers
+code --install-extension ms-vscode-remote.remote-containers
 code --install-extension ms-vscode-remote.remote-wsl
 code --install-extension ms-vscode.cpptools
 code --install-extension ms-vscode.powershell
@@ -24,9 +31,17 @@ code --install-extension Pivotal.vscode-boot-dev-pack
 code --install-extension Pivotal.vscode-concourse
 code --install-extension Pivotal.vscode-manifest-yaml
 code --install-extension Pivotal.vscode-spring-boot
+code --install-extension raynigon.nginx-formatter
+code --install-extension redhat.fabric8-analytics
 code --install-extension redhat.java
+code --install-extension redhat.vscode-commons
 code --install-extension redhat.vscode-xml
+code --install-extension s-nlf-fh.glassit
+code --install-extension sdras.night-owl
 code --install-extension Shan.code-settings-sync
+code --install-extension SonarSource.sonarlint-vscode
+code --install-extension styled-components.vscode-styled-components
+code --install-extension tomoki1207.pdf
 code --install-extension VisualStudioExptTeam.vscodeintellicode
 code --install-extension vscjava.vscode-java-debug
 code --install-extension vscjava.vscode-java-dependency
